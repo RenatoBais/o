@@ -1,6 +1,8 @@
 {
-  "name": "Oberdan_Pool",
-  "ticker": "OBERDAN",
+  "name": "Oberdan",
+  "ticker": "OBERD",
   "description": "Cardano Paradise",
-  "homepage": "https://www.google.com"
+  "homepage": "https://www.palmeiras.com.br/pt-br/craques/oberdan/",
+  "nonce": "1595810870",
+  "extended": "https://raw.githubusercontent.com/RenatoBais/o/master/o.json"
 }
